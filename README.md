@@ -13,8 +13,8 @@ you can go create your own bot `https://dialogflow.cloud.google.com/#/getStarted
 
 ### Screens.
 
-Dialog flow messenger :
-Web Demo :
+Dialog flow messenger :![MainUI](resources/a.png)
+Web Demo :![MainUI](resources/b.png)
 
 ### License
 
